@@ -78,8 +78,8 @@ def Play():
     message = client.messages \
     .create(
          body='The translation text for the Morse code is '+n,
-         from_='+17073833609',
-         to='+917848961952'
+         from_='your twilio phone number',
+         to='phone number that will recieve the sms'
      )
     print(message.sid)
     #####################
