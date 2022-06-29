@@ -1,7 +1,7 @@
 ***********************************************************************************************************************************************************************
-                                     			--- Hacking Heist 2.0 ---
+                                     	--- Hacking Heist 2.0 ---
 
-                                                    Title:   --- Morse Code Converter ---
+                                   Title:   --- Morse Code Converter ---
 ***********************************************************************************************************************************************************************
 A -> .- 
 
@@ -63,7 +63,7 @@ Well, if you open one finger, it is small beep(dot in Morse code). If you open t
 fingers, it is long beep(dash in Morse code). If you open three fingers, it is to start
 capturing for a new character or resetting the current character.
 
-                          		                            -----Instructions-----
+                          	 -----Instructions-----
 								  
 > Always keep the "HandTrackingModule.py" in the same folder as the main program.
 
